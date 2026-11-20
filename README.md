@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Yamin Han 👋
 
-<!--
-**YaminHan-Wai/YaminHan-Wai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💜 Third Year IT Student
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Python and Web Development
+
+🛠️ Skills
+- HTML
+- CSS
+- C++
+- PHP
+- Java
+- Python
+
+📂 My Projects
+- Personal Portfolio Website
+
+📫 Contact
+- Email: yaminh823@gmail.com
